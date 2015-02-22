@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright © 2015 CYBERSPACE Industries. All rights reserved.
+  Contacts: http://cyberspace.industries/
+  License: LICENSE.ENG.txt
+-->
+<bb_codes>
+  <bb_code bb_code_id="icq" bb_code_mode="replace" has_option="no" callback_class="" callback_method="" option_regex="" trim_lines_after="1" plain_children="1" disable_smilies="1" disable_nl2br="1" disable_autolink="1" allow_signature="0" editor_icon_url="" sprite_mode="0" active="1" title="jsFiddle" description="Онлайн сервис для проверки и демонстрации идей в программировании веб ресурсов. Можно подключать различные популярные библиотеки и делиться кодом с коллегами и мировым сообществом.">
+    <replace_html><![CDATA[<div class="bbc-jsfiddle"><iframe class="bbc-jsfiddle-frame" src="http://jsfiddle.net/{text}/embedded/result,html,css,js/light/" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>]]></replace_html>
+    <replace_html_email><![CDATA[]]></replace_html_email>
+    <replace_text><![CDATA[]]></replace_text>
+    <example><![CDATA[[jsfiddle]ID[/jsfiddle]]]></example>
+  </bb_code>
+</bb_codes>
