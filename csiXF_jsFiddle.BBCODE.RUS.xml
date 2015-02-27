@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  Copyright © 2015 CYBERSPACE Industries. All rights reserved.
+  Copyright © 2015 CYBERSPACE Industries
   Contacts: http://cyberspace.industries/
-  License: LICENSE.ENG.txt
+  License: LICENSE.ENG.txt / LICENSE.RUS.txt
 -->
 <bb_codes>
   <bb_code bb_code_id="icq" bb_code_mode="replace" has_option="no" callback_class="" callback_method="" option_regex="" trim_lines_after="1" plain_children="1" disable_smilies="1" disable_nl2br="1" disable_autolink="1" allow_signature="0" editor_icon_url="" sprite_mode="0" active="1" title="jsFiddle" description="Онлайн сервис для проверки и демонстрации идей в программировании веб ресурсов. Можно подключать различные популярные библиотеки и делиться кодом с коллегами и мировым сообществом.">
